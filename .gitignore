@@ -1,0 +1,8 @@
+[Libraries]
+/[Libraries]
+/Libraries]/*
+[Libraries]/ [Libraries]/*
+# Ignore crash reports
+[Libraries]
+#
+# Avoid pushing large files
